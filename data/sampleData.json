@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "Name": "Dulles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.45086669921875,
+          38.95727304112803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "properties": {
+        "Name": "Reagan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04437255859375,
+          38.85147291406818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "properties": {
+        "Name": "Leesburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.55592346191406,
+          39.07864158248181
+        ]
+      }
+    }
+  ]
+}
